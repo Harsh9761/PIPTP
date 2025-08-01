@@ -1,4 +1,4 @@
-package Recursive_fun;
+// package Recursive_fun;
 
 public class ques3 {
     public static void main(String[] args) {
@@ -13,3 +13,4 @@ public class ques3 {
         return fun(x-1,y)+fun(x-1,y-1);
     }
 }
+// Output 10

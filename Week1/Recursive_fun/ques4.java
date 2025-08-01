@@ -13,3 +13,5 @@ public class ques4 {
         return fun(x,(x+y)/2) + fun((x+y)/2+1,y);
     }
 }
+
+// Output 139
